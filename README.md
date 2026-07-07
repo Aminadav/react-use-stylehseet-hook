@@ -16,3 +16,5 @@ function MyComponenet(){
 ```
 Everytime the component will be mounted the body background will be changed to red.
 On unmount the color will be back to normal.
+
+[Coltonos.com - Build your WhatsApp assistant in minutes](https://coltonos.com)
